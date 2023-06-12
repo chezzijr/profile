@@ -49,6 +49,7 @@ const config = {
     'React.js',
     'Django',
     'Unity',
+    'Godot',
     'Tailwind',
     'Git',
     'Github',
