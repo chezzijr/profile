@@ -45,6 +45,7 @@ const config = {
     'Shell',
     'Bash',
     'Sveltekit',
+    'Next.js',
     'React.js',
     'Django',
     'Unity',
